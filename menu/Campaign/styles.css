@@ -3,6 +3,10 @@
   padding-left:200px;
   height:325px;
 }
+.campaign:hover{
+	height: 350px;
+}
+
 body{
   background: linear-gradient(to bottom left, lightblue, blue);
   height: 100vh;
