@@ -1,5 +1,17 @@
+body{
+	background-image: url("https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fhitcolors.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBlue-19.jpg&f=1");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed
+}
+
 h1{
-	
-	color:green
-	
+	color: rgb(135,33,204);
+	font-size: 75px;
+	font-family: 'Russo One';
+}
+h1:hover{
+	font-size: 100px;
+	text-decoration: underline;
+	color: rgb(142,71,204);
 }
