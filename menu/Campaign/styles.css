@@ -1,0 +1,16 @@
+.campaign{
+  padding-top:50px;
+  padding-left:200px;
+  height:325px;
+}
+body{
+  background: linear-gradient(to bottom left, lightblue, blue);
+  height: 100vh;
+}
+h2{
+  font-family: 'Russo One', sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 60px;
+  padding-left: 20px;
+  text-shadow: 2px 2px 8px #004370;
+}
